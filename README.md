@@ -8,7 +8,7 @@ A simple and interactive web-based Number Guessing Game built with HTML, CSS, an
 
 ## Table of Contents
 
-- [Demo](#https://ankur200.github.io/Guess_The_Number/)
+- [Demo](https://ankur200.github.io/Guess_The_Number/)
 
 ## Demo
 
