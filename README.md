@@ -12,7 +12,7 @@ A simple and interactive web-based Number Guessing Game built with HTML, CSS, an
 
 ## Demo
 
-[Link to Live Demo](https://ankur200.github.io/Guess_The_Number/) *(Replace with actual link)*
+[Link to Live Demo](https://ankur200.github.io/Guess_The_Number/) 
 
 ## Features
 
